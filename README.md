@@ -26,7 +26,7 @@ pip install pyTelegramBotAPI
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/MiniHub4ik/your-repo-name.git
 cd your-repo-name
 ```
 
