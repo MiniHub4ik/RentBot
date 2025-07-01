@@ -96,3 +96,9 @@ This bot uses in-memory session and password handling.
 For production, consider:
 - Persistent storage (e.g. Redis or a database)
 - Hashed passwords (e.g. bcrypt)
+
+## 🤝 Author
+
+Made with ❤️ by Nematilla.\
+Telegram: https://t.me/nematilla \
+GitHub: https://github.com/MiniHub4ik
